@@ -1,0 +1,2097 @@
+fileFormatVersion: 2
+guid: daa3d043340e4474f8baa9e4b925c5bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5090569760240794715
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_0
+  - first:
+      213: 2336592213672153737
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_1
+  - first:
+      213: 4796600567891926404
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_2
+  - first:
+      213: 3229626585940637534
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_3
+  - first:
+      213: -4850494076496335676
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_4
+  - first:
+      213: 7864384371013154957
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_5
+  - first:
+      213: -5313289147020500454
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_6
+  - first:
+      213: -5906335880786201541
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_7
+  - first:
+      213: -5634469152184613955
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_8
+  - first:
+      213: 4287069552019966495
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_9
+  - first:
+      213: 4428008838946991349
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_10
+  - first:
+      213: -5749154277043804962
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_11
+  - first:
+      213: 5302225688542042705
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_12
+  - first:
+      213: -1595071332432820780
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_13
+  - first:
+      213: 8391981879661808284
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_14
+  - first:
+      213: 5014068195079482950
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_15
+  - first:
+      213: -7894123087283982338
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_16
+  - first:
+      213: 8985812086467740494
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_17
+  - first:
+      213: 338932032558688571
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_18
+  - first:
+      213: 4383993858135836024
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_19
+  - first:
+      213: -2246384184073311021
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_20
+  - first:
+      213: 4161560044986052228
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_21
+  - first:
+      213: 9002856617440724072
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_22
+  - first:
+      213: -6438888421602591448
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_23
+  - first:
+      213: 539300565520725103
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_24
+  - first:
+      213: 6715334327505831103
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_25
+  - first:
+      213: 7296800910006573332
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_26
+  - first:
+      213: -5531867627637633190
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_27
+  - first:
+      213: -8168192669670020773
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_28
+  - first:
+      213: -8103721138381459961
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_29
+  - first:
+      213: 4324135917285781673
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_30
+  - first:
+      213: -6648550843107835776
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_31
+  - first:
+      213: 1613797723111255814
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_32
+  - first:
+      213: -4670255103440554154
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_33
+  - first:
+      213: 8625890922723454078
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_34
+  - first:
+      213: -7335778024140425881
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_35
+  - first:
+      213: -1843294362654585780
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_36
+  - first:
+      213: -4685631064707696385
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_37
+  - first:
+      213: -1286653119940732152
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_38
+  - first:
+      213: -333059179218575459
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_39
+  - first:
+      213: 171965113616351518
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_40
+  - first:
+      213: 5810911377211247956
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_41
+  - first:
+      213: -9087292164432537616
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_42
+  - first:
+      213: 9064869089668104517
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_43
+  - first:
+      213: -6799338474205184440
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_44
+  - first:
+      213: 4224437740780052044
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_45
+  - first:
+      213: -7286368268643524749
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_46
+  - first:
+      213: -8907009143277324373
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_47
+  - first:
+      213: 1938588857231449944
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_48
+  - first:
+      213: 9095797886883464908
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_49
+  - first:
+      213: 4156801029321110120
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_50
+  - first:
+      213: -1737422382797483436
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_51
+  - first:
+      213: -6841066825858970865
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_52
+  - first:
+      213: -2541608436084061994
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_53
+  - first:
+      213: 4424114967364303304
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_54
+  - first:
+      213: 9109370904491602786
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_55
+  - first:
+      213: -5395930658626690873
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_56
+  - first:
+      213: -6275990339106857142
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_57
+  - first:
+      213: -7899043533437479205
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_58
+  - first:
+      213: 8905256353619354172
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_59
+  - first:
+      213: 8191227095114685228
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_60
+  - first:
+      213: 2127752287787768221
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_61
+  - first:
+      213: -645387535636929842
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_62
+  - first:
+      213: -5275407402348640445
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_63
+  - first:
+      213: -4675434230581973573
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_64
+  - first:
+      213: -7903599121806466079
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_65
+  - first:
+      213: 9010069222792562164
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_66
+  - first:
+      213: 4830650286142040703
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_67
+  - first:
+      213: -5790351511408257199
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_68
+  - first:
+      213: -4928106628807613113
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_69
+  - first:
+      213: -1627184496234292500
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_70
+  - first:
+      213: -4502139498356393970
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_71
+  - first:
+      213: 7219532955956253394
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_72
+  - first:
+      213: 3340417114113099410
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_73
+  - first:
+      213: -6824426099658237888
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_74
+  - first:
+      213: -7784738258835754430
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_75
+  - first:
+      213: -7174614875793761160
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_76
+  - first:
+      213: -3278458714267815061
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_77
+  - first:
+      213: 1179456165994093806
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_78
+  - first:
+      213: 5503889899042829399
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_79
+  - first:
+      213: -6205733936842987134
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_80
+  - first:
+      213: 5115105241590162906
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_81
+  - first:
+      213: 7480835930340891037
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_82
+  - first:
+      213: 3903033052836459641
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_83
+  - first:
+      213: 3673054772583652777
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_84
+  - first:
+      213: -7926945118237000652
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_85
+  - first:
+      213: 3430005873780642677
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_86
+  - first:
+      213: 1219433459390430369
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_87
+  - first:
+      213: 3008149875187883960
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_88
+  - first:
+      213: -4773310975902585479
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_89
+  - first:
+      213: 251312756075096278
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_90
+  - first:
+      213: -2516597051924733256
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_91
+  - first:
+      213: 2779570394932522732
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_92
+  - first:
+      213: 371527879905511208
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_93
+  - first:
+      213: -3360345897136008939
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_94
+  - first:
+      213: 4798300896999348954
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_95
+  - first:
+      213: 8570998029958138799
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_96
+  - first:
+      213: -471549494457892690
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_97
+  - first:
+      213: -2573288305853983870
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_98
+  - first:
+      213: 5055251512682707722
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_99
+  - first:
+      213: -6336415610085904191
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_100
+  - first:
+      213: 7658819578271840834
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_101
+  - first:
+      213: 4785658000067105960
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_102
+  - first:
+      213: -2712982919792276583
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_103
+  - first:
+      213: -52474065300302010
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_104
+  - first:
+      213: 1267045592871897569
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_105
+  - first:
+      213: 6872989459401725065
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_106
+  - first:
+      213: 1360364346531075012
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_107
+  - first:
+      213: 8045725510859609390
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_108
+  - first:
+      213: -2446506379899079820
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_109
+  - first:
+      213: -1914095872984881002
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_110
+  - first:
+      213: -6378221123917411706
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_111
+  - first:
+      213: 8249724055192488618
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_112
+  - first:
+      213: 6870271596736508867
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_113
+  - first:
+      213: -5017276002929367048
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_114
+  - first:
+      213: 7252450301938362882
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_115
+  - first:
+      213: -7801389600419177708
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_116
+  - first:
+      213: -5526085203087294401
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_117
+  - first:
+      213: -4897029892195874030
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_118
+  - first:
+      213: -5234998885675553711
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_119
+  - first:
+      213: -8180813075237646198
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_120
+  - first:
+      213: 7607471889446402274
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_121
+  - first:
+      213: -9007805738374200499
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_122
+  - first:
+      213: -5928316118280463614
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_123
+  - first:
+      213: 1557712927323804837
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_124
+  - first:
+      213: -2442592122049248287
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_125
+  - first:
+      213: 4663896079493448753
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_126
+  - first:
+      213: 7211583017273408678
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_127
+  - first:
+      213: 2367403244104454473
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_128
+  - first:
+      213: -5463912848677871222
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_129
+  - first:
+      213: 211961328155714725
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_130
+  - first:
+      213: -4399794494582483957
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_131
+  - first:
+      213: 6313101659196800780
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_132
+  - first:
+      213: -7265401135551508493
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_133
+  - first:
+      213: 6416225755436978889
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_134
+  - first:
+      213: -976066413784007139
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_135
+  - first:
+      213: 3910219731310090649
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_136
+  - first:
+      213: 8571277596244892541
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_137
+  - first:
+      213: 6874165583936839326
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_138
+  - first:
+      213: 6579301568604197046
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_139
+  - first:
+      213: 4811068601370462226
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_140
+  - first:
+      213: -7491553665505545780
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_141
+  - first:
+      213: 3850266765402130699
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_142
+  - first:
+      213: -6780195674549581376
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_143
+  - first:
+      213: -277001603844432668
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_144
+  - first:
+      213: 8028479915725952254
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_145
+  - first:
+      213: 4388592493561112754
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_146
+  - first:
+      213: -2153991419590579068
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_147
+  - first:
+      213: 3184993211170661609
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_148
+  - first:
+      213: 7012155174589646969
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_149
+  - first:
+      213: -564126403421269011
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_150
+  - first:
+      213: -1716023524414952022
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_151
+  - first:
+      213: -2050844214045331111
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_152
+  - first:
+      213: 1625192611094043113
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_153
+  - first:
+      213: 3977304724479608312
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_154
+  - first:
+      213: -7587166228080551599
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_155
+  - first:
+      213: -1090364596446155402
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_156
+  - first:
+      213: 7164707770724202189
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_157
+  - first:
+      213: 2469702156838310719
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_158
+  - first:
+      213: -4934333514178180980
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_159
+  - first:
+      213: -1929674195389948684
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_160
+  - first:
+      213: 5241398752276654963
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_161
+  - first:
+      213: -7493529786855833873
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_162
+  - first:
+      213: 256453838983591192
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_163
+  - first:
+      213: 5420446852774641557
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_164
+  - first:
+      213: 156310976683662352
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_165
+  - first:
+      213: 34217603558153385
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_166
+  - first:
+      213: -6440118509847420650
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_167
+  - first:
+      213: -7740273440693550896
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_168
+  - first:
+      213: -3439071494447241206
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_169
+  - first:
+      213: -4177242265340246292
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_170
+  - first:
+      213: 1452206839007233742
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_171
+  - first:
+      213: 3795589310144319689
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_172
+  - first:
+      213: 6560957093739528755
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_173
+  - first:
+      213: 5886831238589887258
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_174
+  - first:
+      213: 6248800660783865017
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_175
+  - first:
+      213: 859645942048252849
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_176
+  - first:
+      213: 4158285167772445623
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_177
+  - first:
+      213: -4396750955949066336
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_178
+  - first:
+      213: 2277884120484471756
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_179
+  - first:
+      213: 865682039587507104
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_180
+  - first:
+      213: -8869598143832771034
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_181
+  - first:
+      213: -8446757451704919945
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_182
+  - first:
+      213: -5918483523074085498
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_183
+  - first:
+      213: 1345152639642594372
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_184
+  - first:
+      213: -2999915103794618623
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_185
+  - first:
+      213: 392780922685704163
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_186
+  - first:
+      213: -888069181664255957
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_187
+  - first:
+      213: 6180073856269241581
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_188
+  - first:
+      213: 7984492784928387511
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_189
+  - first:
+      213: -8213977811248879346
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_190
+  - first:
+      213: 5362927805300106637
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_191
+  - first:
+      213: 2776580384141652094
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_192
+  - first:
+      213: 2946829416907809320
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_193
+  - first:
+      213: -7320133478610318977
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_194
+  - first:
+      213: -6099916290212906852
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_195
+  - first:
+      213: 3099813946272548344
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_196
+  - first:
+      213: -9201783656026209134
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_197
+  - first:
+      213: 2937986636317217514
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_198
+  - first:
+      213: -5417930767595559416
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_199
+  - first:
+      213: -6196002105971289328
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_200
+  - first:
+      213: 7117423744546119273
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_201
+  - first:
+      213: 2969827381275546564
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_202
+  - first:
+      213: -4009374255963994687
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_203
+  - first:
+      213: 6100887404493214758
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_204
+  - first:
+      213: -2588499305439881575
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_205
+  - first:
+      213: 8527130572097316940
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_206
+  - first:
+      213: -3401278307632545483
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_207
+  - first:
+      213: -2626719989150381004
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_208
+  - first:
+      213: -688790450510528920
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_209
+  - first:
+      213: 4968719254920529616
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_210
+  - first:
+      213: -514538731240382960
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_211
+  - first:
+      213: -4065459994197737229
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_212
+  - first:
+      213: 7606685532923705915
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_213
+  - first:
+      213: 4947949516906175344
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_214
+  - first:
+      213: -5994214530891347502
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_215
+  - first:
+      213: -4432989414440993743
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_216
+  - first:
+      213: 1422535122582098253
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_217
+  - first:
+      213: -3215792896034424924
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_218
+  - first:
+      213: 7053939326630281160
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_219
+  - first:
+      213: -7803455371457200310
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_220
+  - first:
+      213: -7696897127137755578
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_221
+  - first:
+      213: -5888704177096765605
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_222
+  - first:
+      213: -871942310629596325
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_223
+  - first:
+      213: 3448614258848412581
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_224
+  - first:
+      213: 7900558205856876269
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_225
+  - first:
+      213: -8190866512345769720
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_226
+  - first:
+      213: 4064495862593971130
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_227
+  - first:
+      213: 88290331607325267
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_228
+  - first:
+      213: -8556017192322204947
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_229
+  - first:
+      213: 5007108344364098308
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_230
+  - first:
+      213: 6522409592979740826
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_231
+  - first:
+      213: -7308585204485185364
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_232
+  - first:
+      213: 5736217579725311266
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_233
+  - first:
+      213: -7753269344895469638
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_234
+  - first:
+      213: -2470458165291255405
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_235
+  - first:
+      213: -161037129153138639
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_236
+  - first:
+      213: 7843552373230705796
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_237
+  - first:
+      213: 6820817500953215932
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_238
+  - first:
+      213: -7248083586264186710
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_239
+  - first:
+      213: 4850538599357032387
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_240
+  - first:
+      213: 2898990097851948436
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_241
+  - first:
+      213: 7614123087778833783
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_242
+  - first:
+      213: 4423431272564190711
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_243
+  - first:
+      213: 4743769621480469061
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_244
+  - first:
+      213: -7520350406290703326
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_245
+  - first:
+      213: -8844526103577892891
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_246
+  - first:
+      213: 776297573482940727
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_247
+  - first:
+      213: -3722051525433500859
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_248
+  - first:
+      213: -8889146349286542823
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_249
+  - first:
+      213: 4311052046780226695
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_250
+  - first:
+      213: -7196098090734027760
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_251
+  - first:
+      213: 7263958866258250144
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_252
+  - first:
+      213: -8585532285749484199
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_253
+  - first:
+      213: 6515109732546078135
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_254
+  - first:
+      213: -4899257640948965173
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_255
+  - first:
+      213: 6683156507008625401
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_256
+  - first:
+      213: -1573823717528193953
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_257
+  - first:
+      213: 2002514117045634471
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_258
+  - first:
+      213: -9012615158508405594
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_259
+  - first:
+      213: 4777932364044176013
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_260
+  - first:
+      213: 5426421934434046804
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_261
+  - first:
+      213: -4918557080546904155
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_262
+  - first:
+      213: -8603873514877247163
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_263
+  - first:
+      213: 5893896443704668264
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_264
+  - first:
+      213: 1432086828362429491
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_265
+  - first:
+      213: 3948505733838721886
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_266
+  - first:
+      213: -2593774603899112480
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_267
+  - first:
+      213: 944439590901153169
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_268
+  - first:
+      213: -8834327117200922675
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_269
+  - first:
+      213: 4568812214773929512
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_270
+  - first:
+      213: -58194607208934055
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_271
+  - first:
+      213: -8542624040261658426
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_272
+  - first:
+      213: 1869837910627528934
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_273
+  - first:
+      213: -8247029862485369898
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_274
+  - first:
+      213: 2593803087640925739
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_275
+  - first:
+      213: -8062453720618315093
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_276
+  - first:
+      213: -648733640467576116
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_277
+  - first:
+      213: -3380356495730263756
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_278
+  - first:
+      213: -6555767276672086557
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_279
+  - first:
+      213: 7662512453394992349
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_280
+  - first:
+      213: 5541442718883157132
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_281
+  - first:
+      213: 6855435519162239351
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_282
+  - first:
+      213: -4045539737976345260
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_283
+  - first:
+      213: -5230845218349642663
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_284
+  - first:
+      213: 9198290956403441611
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_285
+  - first:
+      213: 540552361887821930
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_286
+  - first:
+      213: -5143790794939688868
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_287
+  - first:
+      213: 2246680494491780423
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_288
+  - first:
+      213: -3184118319993361908
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_289
+  - first:
+      213: -6919162602877680431
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_290
+  - first:
+      213: 7331450254959689175
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_291
+  - first:
+      213: -3346510479411637027
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_292
+  - first:
+      213: 7297125770495956808
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_293
+  - first:
+      213: 7623193386559716893
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_294
+  - first:
+      213: -877370237415571758
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_295
+  - first:
+      213: -6160123248447849011
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_296
+  - first:
+      213: -5846585641125160280
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_297
+  - first:
+      213: 7351714116422906267
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_298
+  - first:
+      213: 9004774927053157510
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_299
+  - first:
+      213: -8980878343982918323
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_300
+  - first:
+      213: 5840048693819830638
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_301
+  - first:
+      213: 5776035505939296213
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_302
+  - first:
+      213: -6252359567272774620
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_303
+  - first:
+      213: 6593257702501756719
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_304
+  - first:
+      213: -4680396210557298404
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_305
+  - first:
+      213: 9140317305128383370
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_306
+  - first:
+      213: -8733019873577005254
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_307
+  - first:
+      213: -7510691103114353238
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_308
+  - first:
+      213: -859455940921154352
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_309
+  - first:
+      213: -5376418777387876901
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_310
+  - first:
+      213: -4505164365483276915
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_311
+  - first:
+      213: 978151004569125388
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_312
+  - first:
+      213: -5879756117708500594
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_313
+  - first:
+      213: -4502813623496856214
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_314
+  - first:
+      213: -3913103477916146160
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_315
+  - first:
+      213: -8450537149000449234
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_316
+  - first:
+      213: -5539810337866907202
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_317
+  - first:
+      213: -8457001142229921988
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_318
+  - first:
+      213: 8599416479101739960
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_319
+  - first:
+      213: 5424723038728162503
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_320
+  - first:
+      213: 7869668683120585393
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_321
+  - first:
+      213: -6752049330338808552
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_322
+  - first:
+      213: -2007373605481099152
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_323
+  - first:
+      213: -2241409417861974219
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_324
+  - first:
+      213: 8173870174155048144
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_325
+  - first:
+      213: -8409569572220999327
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_326
+  - first:
+      213: -4094909123160051539
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_327
+  - first:
+      213: 4832294464611187341
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_328
+  - first:
+      213: -7449782644796847892
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_329
+  - first:
+      213: 2524765889933298546
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_330
+  - first:
+      213: 4163597644628787832
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_331
+  - first:
+      213: 6818534620145586365
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_332
+  - first:
+      213: -3138231883572379117
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_333
+  - first:
+      213: 8783618323338311791
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_334
+  - first:
+      213: 5973127057392213877
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_335
+  - first:
+      213: -7540545155351484064
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_336
+  - first:
+      213: 8041351280298185761
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_337
+  - first:
+      213: -8543262464852571431
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_338
+  - first:
+      213: -4510189946357400739
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_339
+  - first:
+      213: 6366648397131124772
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_340
+  - first:
+      213: 7263766006826801052
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_341
+  - first:
+      213: 3795397384034944518
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_342
+  - first:
+      213: 8192530589620560825
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_343
+  - first:
+      213: -3890930875750546279
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_344
+  - first:
+      213: -1012843985825167119
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_345
+  - first:
+      213: -4764874903625370197
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_346
+  - first:
+      213: 8308116841601676656
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_347
+  - first:
+      213: 3361784110986464908
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_348
+  - first:
+      213: 7325757702711497459
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_349
+  - first:
+      213: -2783359196204251427
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_350
+  - first:
+      213: -2548624009511539133
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_351
+  - first:
+      213: 711781595312991622
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_352
+  - first:
+      213: 3708913714604565119
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_353
+  - first:
+      213: -2285342869840061425
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_354
+  - first:
+      213: -4867635824041231380
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_355
+  - first:
+      213: 5917299476378603814
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_356
+  - first:
+      213: 5946075583749530833
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_357
+  - first:
+      213: -5580700064610853010
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_358
+  - first:
+      213: 2934665452452173911
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_359
+  - first:
+      213: -5404126740143815162
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_360
+  - first:
+      213: -8720762528245589026
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_361
+  - first:
+      213: 3999420900625651957
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_362
+  - first:
+      213: 892255933639621815
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_363
+  - first:
+      213: -4047048520746011699
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_364
+  - first:
+      213: 3767080733282235400
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_365
+  - first:
+      213: -1319435012812015389
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_366
+  - first:
+      213: 303900814749654493
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_367
+  - first:
+      213: -1292989909943152468
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_368
+  - first:
+      213: -8770138956130673292
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_369
+  - first:
+      213: -3545351247761954655
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_370
+  - first:
+      213: 8445332431837684915
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_371
+  - first:
+      213: -2571723175110994277
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_372
+  - first:
+      213: -6657319246046205807
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_373
+  - first:
+      213: -6098427942975494557
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_374
+  - first:
+      213: -7361031879197087809
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_375
+  - first:
+      213: -6931777529846444831
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_376
+  - first:
+      213: 2381557834249041448
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_377
+  - first:
+      213: 6634131928326312488
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_378
+  - first:
+      213: 8290462167834006322
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_379
+  - first:
+      213: -5268314120824559480
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_380
+  - first:
+      213: 471074680916845315
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_381
+  - first:
+      213: 7428267879398332770
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_382
+  - first:
+      213: -280456558803947878
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_383
+  - first:
+      213: 7764530682455407979
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_384
+  - first:
+      213: -1278094568986516632
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_385
+  - first:
+      213: -44595289943882887
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_386
+  - first:
+      213: -517835568540613314
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_387
+  - first:
+      213: -976457276783227254
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_388
+  - first:
+      213: -429366574399068544
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_389
+  - first:
+      213: -4161274853564846071
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_390
+  - first:
+      213: 7563718811064398273
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_391
+  - first:
+      213: -2235209838867131820
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_392
+  - first:
+      213: -6669466716741180041
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_393
+  - first:
+      213: 5710070589510668838
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_394
+  - first:
+      213: -8546760818137532540
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_395
+  - first:
+      213: -9089050366864209555
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_396
+  - first:
+      213: -2331258093619758958
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_397
+  - first:
+      213: 2872824543681177717
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_398
+  - first:
+      213: -8152688972841439364
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_399
+  - first:
+      213: -8269090208398094736
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_400
+  - first:
+      213: -5577791016598813706
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_401
+  - first:
+      213: 4462890985331743230
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_402
+  - first:
+      213: 4549847006673972561
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_403
+  - first:
+      213: 5944134700712915285
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_404
+  - first:
+      213: 886781731584877304
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_405
+  - first:
+      213: 7320222259183439248
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_406
+  - first:
+      213: 8460713335977350833
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_407
+  - first:
+      213: 663157645761171714
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_408
+  - first:
+      213: -1648324889252646184
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_409
+  - first:
+      213: 9037694219005825180
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_410
+  - first:
+      213: -684546634624196996
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_411
+  - first:
+      213: 2547963090593859420
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_412
+  - first:
+      213: -7534019246474352895
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_413
+  - first:
+      213: -1999471342383393311
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_414
+  - first:
+      213: -4222392069226559206
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_415
+  - first:
+      213: -3157088075556031642
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_416
+  - first:
+      213: 4837849112319467872
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_417
+  - first:
+      213: 8939590997665441710
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_418
+  - first:
+      213: -2722239104833318151
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_419
+  - first:
+      213: 767440526045589924
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_420
+  - first:
+      213: -6084838495035301562
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_421
+  - first:
+      213: -632562664318225306
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_422
+  - first:
+      213: 2550071476622763888
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_423
+  - first:
+      213: -7675260349015728053
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_424
+  - first:
+      213: 1607879727874756912
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_425
+  - first:
+      213: 5072139862521439870
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_426
+  - first:
+      213: -8846534866669856594
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_427
+  - first:
+      213: 7990131505910240543
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_428
+  - first:
+      213: 6503216908605337792
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_429
+  - first:
+      213: -6946608561490140258
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_430
+  - first:
+      213: 2754583956512462341
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_431
+  - first:
+      213: -2864498407727348192
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_432
+  - first:
+      213: 4806742595698820986
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_433
+  - first:
+      213: -6276528619611379944
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_434
+  - first:
+      213: 4244245606824319311
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_435
+  - first:
+      213: 5161612599336594118
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_436
+  - first:
+      213: -9093823845192406579
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_437
+  - first:
+      213: 5022414413500250776
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_438
+  - first:
+      213: -2634948947400919125
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_439
+  - first:
+      213: 3089184330700036598
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_440
+  - first:
+      213: -8033015401042399761
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_441
+  - first:
+      213: 7537749552950868680
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_442
+  - first:
+      213: 3348053082249085300
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_443
+  - first:
+      213: 8530202977993696833
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_444
+  - first:
+      213: -3772957463253320441
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_445
+  - first:
+      213: -5113144244700681924
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_446
+  - first:
+      213: 5830570772709122013
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_447
+  - first:
+      213: 3878640091982259649
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_448
+  - first:
+      213: 3574636214602852779
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_449
+  - first:
+      213: 5132383544937541930
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_450
+  - first:
+      213: 9216039830755759022
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_451
+  - first:
+      213: -7600242628742380940
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_452
+  - first:
+      213: 3170065235230886398
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_453
+  - first:
+      213: -3337365027907337269
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_454
+  - first:
+      213: -443517818969314669
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_455
+  - first:
+      213: -2520016109511079464
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_456
+  - first:
+      213: 6060998426776540554
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_457
+  - first:
+      213: -7189103831965990077
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_458
+  - first:
+      213: 1528163699190762466
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_459
+  - first:
+      213: -8242781946009304809
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_460
+  - first:
+      213: -6381144092913292513
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_461
+  - first:
+      213: -5490269636124010934
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_462
+  - first:
+      213: 6867034917516575417
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_463
+  - first:
+      213: -4365943067177156467
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_464
+  - first:
+      213: -54417087050102384
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_465
+  - first:
+      213: -6931070016798953167
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_466
+  - first:
+      213: -1307385018133088619
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_467
+  - first:
+      213: -7071353332118094545
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_468
+  - first:
+      213: 4918986265242865667
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_469
+  - first:
+      213: -3833614287095776605
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_470
+  - first:
+      213: 2846549332588464515
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_471
+  - first:
+      213: 702798794593606190
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_472
+  - first:
+      213: 4636814679458510012
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_473
+  - first:
+      213: 5648329961612949413
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_474
+  - first:
+      213: 2462703153643473679
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_475
+  - first:
+      213: 6744779660972921444
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_476
+  - first:
+      213: 6504325553940409872
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_477
+  - first:
+      213: 4513991762976541466
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_478
+  - first:
+      213: -2231305473124047716
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_479
+  - first:
+      213: -2784284573484760291
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_480
+  - first:
+      213: 5372659101070018408
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_481
+  - first:
+      213: 3718912981671631358
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_482
+  - first:
+      213: 3569758620878403957
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_483
+  - first:
+      213: -3851113111729174991
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_484
+  - first:
+      213: -7650448177760808647
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_485
+  - first:
+      213: -8514109604626344767
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_486
+  - first:
+      213: 3177222344717625895
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_487
+  - first:
+      213: -3835638204784431596
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_488
+  - first:
+      213: 3509038371861067555
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_489
+  - first:
+      213: -3387303891239458618
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_490
+  - first:
+      213: -4450963411903378088
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_491
+  - first:
+      213: 281536937486585156
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_492
+  - first:
+      213: 1096501182367205182
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_493
+  - first:
+      213: 4146458095330173870
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_494
+  - first:
+      213: 4409442832728545882
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_495
+  - first:
+      213: -4786269435590353101
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_496
+  - first:
+      213: -7771227567498999724
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_497
+  - first:
+      213: -5901882521995781384
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_498
+  - first:
+      213: 1169031343100092509
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_499
+  - first:
+      213: -2301146107912152879
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_500
+  - first:
+      213: -6784932181339873222
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_501
+  - first:
+      213: 7270687341807653243
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_502
+  - first:
+      213: -7206022930868199172
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_503
+  - first:
+      213: -2420821026274219822
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_504
+  - first:
+      213: 2834764378413091959
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_505
+  - first:
+      213: -1745676053474053948
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_506
+  - first:
+      213: 2509311596668585596
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_507
+  - first:
+      213: -4598669047570005225
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_508
+  - first:
+      213: 5681326472258296399
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_509
+  - first:
+      213: -1644409901502977282
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_510
+  - first:
+      213: 8386844184204427981
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_511
+  - first:
+      213: 9046770460855144296
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_512
+  - first:
+      213: 768928681822121543
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_513
+  - first:
+      213: 6360973322223856369
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_514
+  - first:
+      213: 9171130905698718211
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_515
+  - first:
+      213: 90182231047224763
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_516
+  - first:
+      213: -6718876121995017789
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_517
+  - first:
+      213: 939117114034221622
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_518
+  - first:
+      213: -1980121659455826658
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_519
+  - first:
+      213: 4707633788941159750
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_520
+  - first:
+      213: 4291226588645440377
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_521
+  - first:
+      213: -2195429143242696540
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_522
+  - first:
+      213: -6061035072547972681
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_523
+  - first:
+      213: 8182155775875729753
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_524
+  - first:
+      213: -4301117842012984551
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_525
+  - first:
+      213: -1983635704572606173
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_526
+  - first:
+      213: 9101796160423118725
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_527
+  - first:
+      213: 4358344964726899259
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_528
+  - first:
+      213: -1203576388687647767
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_529
+  - first:
+      213: -1168064357359271192
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_530
+  - first:
+      213: 955866442853475471
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_531
+  - first:
+      213: -8946221186110685420
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_532
+  - first:
+      213: 100430279423978113
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_533
+  - first:
+      213: 8678360216722310439
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_534
+  - first:
+      213: 7285949141780219702
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_535
+  - first:
+      213: -1866891255784074462
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_536
+  - first:
+      213: 8062065824610465346
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_537
+  - first:
+      213: -5265686132222688504
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_538
+  - first:
+      213: -7290877788148750264
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_539
+  - first:
+      213: 8109444904693880723
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_540
+  - first:
+      213: -5795909243433875694
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_541
+  - first:
+      213: -1991142083220451357
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_542
+  - first:
+      213: 2332266769704223261
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_543
+  - first:
+      213: 384682499525659970
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_544
+  - first:
+      213: 351003353082958253
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_545
+  - first:
+      213: 1304233481011397743
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_546
+  - first:
+      213: -5937008493551294721
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_547
+  - first:
+      213: -8786754718611085040
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_548
+  - first:
+      213: 2251444769298517942
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_549
+  - first:
+      213: -7321856529480972161
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_550
+  - first:
+      213: -5765290309110682702
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_551
+  - first:
+      213: 1939242153888247283
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_552
+  - first:
+      213: -2151356848034518483
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_553
+  - first:
+      213: 4054324188753939096
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_554
+  - first:
+      213: -668647445877168095
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_555
+  - first:
+      213: 5612728337382620577
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_556
+  - first:
+      213: -8086716129963640807
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_557
+  - first:
+      213: 2361038081014044793
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_558
+  - first:
+      213: -4250085801144752572
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_559
+  - first:
+      213: -167129293955048710
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_560
+  - first:
+      213: -5426710197918436102
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_561
+  - first:
+      213: -8258707914683179894
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_562
+  - first:
+      213: 4335819739517946350
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_563
+  - first:
+      213: 8737052231453019519
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_564
+  - first:
+      213: 7059209222069383843
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_565
+  - first:
+      213: 5992068649929242999
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_566
+  - first:
+      213: -1808296259468217202
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_567
+  - first:
+      213: -7848438365581885001
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_568
+  - first:
+      213: -9046300785768919374
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_569
+  - first:
+      213: 1878198125360032415
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_570
+  - first:
+      213: -9167749626187212143
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_571
+  - first:
+      213: -2671723894064066770
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_572
+  - first:
+      213: 5118231737711278582
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_573
+  - first:
+      213: -6487741446556626218
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_574
+  - first:
+      213: 4322750084246127393
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_575
+  - first:
+      213: 5101201147661598945
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_576
+  - first:
+      213: 5574275435775620074
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_577
+  - first:
+      213: -2825176289908630415
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_578
+  - first:
+      213: -4100603926723828554
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_579
+  - first:
+      213: -975862438953849591
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_580
+  - first:
+      213: 6901992268276284531
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_581
+  - first:
+      213: 3340005330590289906
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_582
+  - first:
+      213: -917984622295986383
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_583
+  - first:
+      213: -6691290697024731305
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_584
+  - first:
+      213: -8443289320322326993
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_585
+  - first:
+      213: 720540414736218313
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_586
+  - first:
+      213: -3464954615326698843
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_587
+  - first:
+      213: -173932933919676923
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_588
+  - first:
+      213: 156711968381916039
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_589
+  - first:
+      213: 8687433401195826122
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_590
+  - first:
+      213: 5791735055709734659
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_591
+  - first:
+      213: 1670478478901658440
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_592
+  - first:
+      213: 6648663168796414173
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_593
+  - first:
+      213: 3076928013743795124
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_594
+  - first:
+      213: 6630880968610235568
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_595
+  - first:
+      213: -3632213176822193004
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_596
+  - first:
+      213: 2346433916231494758
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_597
+  - first:
+      213: -2438847015599364499
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_598
+  - first:
+      213: 4031389433145338554
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_599
+  - first:
+      213: -7569976986347137041
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_600
+  - first:
+      213: 6767147771490986191
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_601
+  - first:
+      213: -5280173136695209353
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_602
+  - first:
+      213: -2164702182098680320
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_603
+  - first:
+      213: 5233705434195751982
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_604
+  - first:
+      213: -7425204025901312879
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_605
+  - first:
+      213: -4591027608111677830
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_606
+  - first:
+      213: -8340096665716398804
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_607
+  - first:
+      213: 6150695680510418337
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_608
+  - first:
+      213: -6654813459715945926
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_609
+  - first:
+      213: -5962445836459605921
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_610
+  - first:
+      213: -5557167337833872124
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_611
+  - first:
+      213: 2361523930332640866
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_612
+  - first:
+      213: -5785741964525207649
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_613
+  - first:
+      213: -5016463638062424700
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_614
+  - first:
+      213: -9167801354114504735
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_615
+  - first:
+      213: 5143803611437417758
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_616
+  - first:
+      213: -3394180510500112140
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_617
+  - first:
+      213: 4776009071445144864
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_618
+  - first:
+      213: 8753461977853343740
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_619
+  - first:
+      213: 7787772475968349216
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_620
+  - first:
+      213: 4817817111573456179
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_621
+  - first:
+      213: -8572689343936871954
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_622
+  - first:
+      213: -1655948345710042323
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_623
+  - first:
+      213: 321041630870560790
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_624
+  - first:
+      213: 975553653696113684
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_625
+  - first:
+      213: -6876509725128976026
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_626
+  - first:
+      213: 3832694096465793823
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_627
+  - first:
+      213: 2769763837579237325
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_628
+  - first:
+      213: -3505079583586929092
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_629
+  - first:
+      213: -5325041929265452585
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_630
+  - first:
+      213: -5098138161904061405
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_631
+  - first:
+      213: -7791195292430490957
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_632
+  - first:
+      213: 8492335453526167438
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_633
+  - first:
+      213: -2777237851250760694
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_634
+  - first:
+      213: 4725538915509551049
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_635
+  - first:
+      213: -1117238582514381747
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_636
+  - first:
+      213: 2020765406349827369
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_637
+  - first:
+      213: 1388978192670639667
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_638
+  - first:
+      213: 2639413577953919886
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_639
+  - first:
+      213: -3141618533173741656
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_640
+  - first:
+      213: -6345183928402743857
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_641
+  - first:
+      213: 1068219573031913195
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_642
+  - first:
+      213: 137602723305471025
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_643
+  - first:
+      213: 1770813193913330354
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_644
+  - first:
+      213: 6629428695927550441
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_645
+  - first:
+      213: -8426082949031328884
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_646
+  - first:
+      213: -5897613321815205519
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_647
+  - first:
+      213: -676863637828441795
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_648
+  - first:
+      213: 7068646871375886542
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_649
+  - first:
+      213: 7092501106070434533
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_650
+  - first:
+      213: -6089724312625526281
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_651
+  - first:
+      213: 277252429832121913
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_652
+  - first:
+      213: -908648051119663173
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_653
+  - first:
+      213: -3175794868508929370
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_654
+  - first:
+      213: 3016673442657683534
+    second: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_655
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Mario Kart Items Super Mario Kart-Style_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 663
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3808826c9aa59b0800000000000000
+      internalID: -5090569760240794715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
