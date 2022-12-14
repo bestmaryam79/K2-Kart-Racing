@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +7,12 @@ public class Collect : MonoBehaviour
 {
 
     public bool collectedTreasure;
+
+    public Collect(bool collectedTreasure)
+    {
+        this.collectedTreasure = collectedTreasure;
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +32,10 @@ public class Collect : MonoBehaviour
 
     }
 }
+
+
+
+
 
 
 
