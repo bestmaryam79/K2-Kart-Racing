@@ -2,11 +2,14 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Collect : MonoBehaviour
 {
 
     public bool collectedTreasure;
+    int counter;
+    public TextMeshProUGUI textChest;
 
     public Collect(bool collectedTreasure)
     {
@@ -16,7 +19,7 @@ public class Collect : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        counter = 0; 
     }
 
     // Update is called once per frame
@@ -28,7 +31,9 @@ public class Collect : MonoBehaviour
     }
     public void CollectedTreasureFunction ()
     {
-        Debug.Log("The collected treasure function has just been called");
+        counter++;
+        textChest.text = ("Treasure Chests " + counter.ToString());
+        Debug.Log("The collected treasure function has just been called " + counter);
 
     }
 }

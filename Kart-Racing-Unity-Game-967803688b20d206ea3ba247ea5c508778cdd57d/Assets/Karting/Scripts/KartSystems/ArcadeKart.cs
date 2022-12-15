@@ -596,18 +596,24 @@ namespace KartGame.KartSystems
 
             ActivateDriftVFX(IsDrifting && GroundPercent > 0.0f);
         }
-        
 
+        private void OnTriggerEnter(Collider other)
+        {
+            if (other.tag == "Water")
+                {
+                Debug.Log("SLowe");
+                    //struct(TopSpeed) = 5f;
+                }
+        }
     }
 
 
-    // Code fot the treasure chest collectable that functions like an item box
 
-    //private void Move() { }
 
-    
 
-    
+
+
+
 
 }
 

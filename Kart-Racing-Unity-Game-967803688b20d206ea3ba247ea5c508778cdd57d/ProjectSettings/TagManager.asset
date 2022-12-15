@@ -8,6 +8,7 @@ TagManager:
   - Obstacle
   - CrashMode
   - Coin
+  - Water
   layers:
   - Default
   - TransparentFX
