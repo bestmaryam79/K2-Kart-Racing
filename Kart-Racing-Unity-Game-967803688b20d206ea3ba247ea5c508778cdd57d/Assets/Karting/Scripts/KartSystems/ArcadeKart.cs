@@ -601,7 +601,7 @@ namespace KartGame.KartSystems
         {
             if (other.tag == "Water")
                 {
-                Debug.Log("SLowe");
+                Debug.Log("Slow");
                     //struct(TopSpeed) = 5f;
                 }
         }

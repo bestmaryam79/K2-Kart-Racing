@@ -32,7 +32,7 @@ public class Missile : MonoBehaviour
 
         //the rocket is lit, move forward
         transform.Translate(Vector3.forward * speed * Time.deltaTime);
-
+        
 
 
     }
