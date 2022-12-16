@@ -4,9 +4,10 @@ using UnityEngine.Events;
 
 public class Water : MonoBehaviour
 {
+    public float kartSpeedTimer;
     public ArcadeKart.StatPowerup boostStats = new ArcadeKart.StatPowerup
     {
-        MaxTime = 5
+         
     };
 
     public bool isCoolingDown { get; private set; }
@@ -52,6 +53,11 @@ public class Water : MonoBehaviour
 
             if (kart)
             {
+                kart.baseStats.TopSpeed = 5.0f;
+                kart.kartSpeedTimer = 0.0f; //Reset the time
+
+
+
                 lastActivatedTimestamp = Time.time;
                 kart.AddPowerup(this.boostStats);
                 onPowerupActivated.Invoke();

@@ -5,8 +5,11 @@ using UnityEngine.VFX;
 
 namespace KartGame.KartSystems
 {
+    
     public class ArcadeKart : MonoBehaviour
+
     {
+        public float kartSpeedTimer;
         [System.Serializable]
         public class StatPowerup
         {
@@ -282,6 +285,12 @@ namespace KartGame.KartSystems
 
         void FixedUpdate()
         {
+            // reset the speed
+            kartSpeedTimer += Time.deltaTime;
+            if(kartSpeedTimer > 5.0f)
+            {
+                baseStats.TopSpeed = 15.0f;
+            }
             UpdateSuspensionParams(FrontLeftWheel);
             UpdateSuspensionParams(FrontRightWheel);
             UpdateSuspensionParams(RearLeftWheel);
@@ -605,11 +614,16 @@ namespace KartGame.KartSystems
                     //struct(TopSpeed) = 5f;
                 }
         }
+
+
+
+       
+
     }
 
 
 
-
+    
 
 
 
