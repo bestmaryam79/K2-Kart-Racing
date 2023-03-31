@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class AIController : MonoBehaviour
 {
@@ -75,3 +75,4 @@ public class AIController : MonoBehaviour
         transform.Translate(0f, 0f, maxSpeed * Time.deltaTime);
     }
 }
+*/
